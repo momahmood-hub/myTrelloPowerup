@@ -1,0 +1,14 @@
+{
+  "name": "My Trello Power-Up",
+  "description": "Power-Up from GitHub Pages",
+  "author": "momahmood",
+  "iframeConnectorUrl": "https://momahmood-hub.github.io/myTrelloPowerup/",
+  "capabilities": {
+    "card-buttons": [
+      {
+        "text": "Say Hello",
+        "callback": "sayHello"
+      }
+    ]
+  }
+}
